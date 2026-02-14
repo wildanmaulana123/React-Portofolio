@@ -16,7 +16,7 @@ const Footer = () => {
         <a href="https://www.instagram.com/wildaanmaulanaa?igsh=MWRtMDRyZ2s3MmJ4">
           <i className="ri-instagram-fill ri-2x"></i>
         </a>
-        <a href="#">
+        <a href="https://wa.me/6281572391110?text=Halo%20Wildan">
           <i className="ri-whatsapp-fill ri-2x"></i>
         </a>
       </div>
