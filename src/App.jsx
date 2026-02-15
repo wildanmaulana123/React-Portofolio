@@ -1,5 +1,6 @@
 import DataImage from "./data";
 import { listTools, listProyek } from "./data";
+import pdf from "/assets/CV-Wildan Maulana.pdf";
 
 function App() {
   return (
@@ -16,7 +17,7 @@ function App() {
             Bidang.
           </p>
           <div className="flex sm:gap-4 gap-2 items-center">
-            <a href="#" className="bg-violet-700 p-4 rounded-2xl hover:bg-violet-600">
+            <a href={pdf} download="Wildan-Maulana-CV.pdf" className="bg-violet-700 p-4 rounded-2xl hover:bg-violet-600">
               Download CV <i className="ri-download-line ri-lg"></i>
             </a>
             <a href="#proyek" className="bg-zinc-700 p-4 rounded-2xl hover:bg-zinc-600">

@@ -1,4 +1,5 @@
 import HeroImage from "/assets/hero-img.png";
+// import pdf from "/assets/cv-Wildan Maulana.pdf";
 
 const Image = {
   HeroImage,
@@ -17,6 +18,7 @@ import Tools8 from "/assets/tools/github.png";
 import Tools9 from "/assets/tools/ai.png";
 import Tools10 from "/assets/tools/canva.png";
 import Tools11 from "/assets/tools/figma.png";
+
 
 export const listTools = [
   {
