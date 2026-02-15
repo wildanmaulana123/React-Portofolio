@@ -115,6 +115,7 @@ export const listProyek = [
     desk: "Membangun sebuah website katalog undangan pernikahan menggunakan react js dan tailwind css.",
     tools: ["HTML", "CSS", "Javascript", "ReactJS", "TailwindCSS",],
     dad: "200",
+    link: "https://dwedding-three.vercel.app/"
   },
   {
     id: 2,
@@ -123,6 +124,7 @@ export const listProyek = [
     desk: "Membangun pokemon web yang interaktif dan GET API",
     tools: ["HTML", "CSS", "Typescript", "Axios"],
     dad: "300",
+    link: "https://pokemon-app-jack.vercel.app/"
   },
   {
     id: 3,
